@@ -10,7 +10,7 @@ I'm Azhar, an iOS Engineer with deep expertise in Swift, SwiftUI, UIKit, Combine
 
 ## 📖 About Me
 
-- I'm currently working as a Lead iOS Engineer at Eka Care Health, where I develop and scale iOS apps for doctors and patients.
+-  I'm currently working as a Lead iOS Engineer at Eka Care Health, where I develop and scale iOS apps for doctors and patients.
 - Previously, I was a Senior iOS Engineer at Fold Money, where I led the development of the Fold Bank app.
 - I love solving challenging problems and creating intuitive user interfaces that provide exceptional user experiences.
 - Some of my projects are available on my [Github](https://github.com/iamazhar).
@@ -22,5 +22,3 @@ I'm Azhar, an iOS Engineer with deep expertise in Swift, SwiftUI, UIKit, Combine
 - Tools: Xcode, VSCode, Insomnia API client, Postman, Sketch, Figma, Zeppelin, Node.js
 - Databases: NoSQL, MySQL
 - Other: API Integration, Server-Driven UI, App Architecture
-
-Feel free to get in touch with me at [azharcodes@gmail.com](mailto:azharcodes@gmail.com). I'm always open to interesting conversations and collaboration.
