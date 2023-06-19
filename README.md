@@ -1,8 +1,6 @@
 # Azhar Anwar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azharcodes/)
-![Github Followers](https://img.shields.io/github/followers/iamazhar?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/iamazhar?style=social)
 
 ### Hello 👋
 
