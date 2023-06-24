@@ -2,6 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azharcodes/)
 
+[Blog](https://azhar-anwar.super.site)
+
+[My Work](https://azhar-anwar.super.site/my-work)
+
 ### Hello 👋
 
 I'm Azhar, an iOS Engineer with deep expertise in Swift, SwiftUI, UIKit, Combine, and Alamofire. I enjoy creating user-centric applications, scaling them for performance, and solving complex technical problems. I've been fortunate to contribute to the healthcare and financial sectors, among others.
